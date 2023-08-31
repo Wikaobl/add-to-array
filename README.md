@@ -6,3 +6,28 @@
 ## Description 
 
 This website is just an easy project where you can add something to an array. For example when you want to create a shopping list, just enter every wanted item in input and click “dodaj” button. A list is created with each item separated by a comma. I used JS, HTML and a little bit of CSS.
+
+## Usage 
+
+First, run the development server:
+
+```bash
+git clone https://github.com/Wikaobl/add-to-array
+```
+
+Next, install dependencies
+
+```bash
+cd add-to-array
+npm install
+```
+
+Run the project
+
+```bash
+npm run
+```
+
+After successfully starting the project, open your web browser and go to the specified URL http://localhost:3000
+
+### I hope you find it helpful! 🐸
